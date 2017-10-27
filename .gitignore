@@ -1,5 +1,5 @@
 .env
 log.txt
-composer.lock
-vendor/
+#composer.lock
+#vendor/
 
