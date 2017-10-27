@@ -1,7 +1,20 @@
 # alexa-hello
 
-This is a basic Alexa skill. It just say `Hello world`
+This is a basic Alexa skill. It just says `Hello world`
 
+# How to install 
+
+Clone the repository
+
+```
+git clone https://github.com/jujoflores/alexa-hello.git
+```
+
+Install dependencies
+
+```
+composer install
+```
 
 Run ngrok
 
@@ -9,7 +22,7 @@ Run ngrok
 ngrok http 80
 ```
 
-You need to configure the following in Amazon Developer Console
+# Amazon Developer Configuration
 
 ## Intent Schema
 
